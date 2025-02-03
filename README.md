@@ -20,6 +20,9 @@ I am [James Lucas](https://blog.lucas.net.au), a software engineer based in Sydn
 
 [LinkedIn](https://www.linkedin.com/in/james-lucas-aus/)
 
+### Certifications: 
+[Credly](https://www.credly.com/users/james-lucas-aus)
+
 ### :hammer_and_wrench: Languages and Tools :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnetau&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -31,7 +34,7 @@ I am [James Lucas](https://blog.lucas.net.au), a software engineer based in Sydn
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
- <img src="https://www.timescale.com/static/f2ad0b5d363418dec15c7cc5d03c7df6/Timescale-Brandmark-Yellow-SVG.svg" title="TimescaleDB" alt="TimescaleDB" width="40" height="40"/>&nbsp;
+ <img src="https://s3.amazonaws.com/assets.timescale.com/timescale-web/brand-images/horizontal/yellow/logo-yellow.png" title="TimescaleDB" alt="TimescaleDB" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>  
